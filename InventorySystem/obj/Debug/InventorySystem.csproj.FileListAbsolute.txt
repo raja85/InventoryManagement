@@ -1,0 +1,73 @@
+c:\projects\InventorySystem\InventorySystem\bin\roslyn\csc.exe
+c:\projects\InventorySystem\InventorySystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\projects\InventorySystem\InventorySystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\projects\InventorySystem\InventorySystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\projects\InventorySystem\InventorySystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\projects\InventorySystem\InventorySystem\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\projects\InventorySystem\InventorySystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\projects\InventorySystem\InventorySystem\bin\roslyn\System.Collections.Immutable.dll
+c:\projects\InventorySystem\InventorySystem\bin\roslyn\System.Reflection.Metadata.dll
+c:\projects\InventorySystem\InventorySystem\bin\roslyn\vbc.exe
+c:\projects\InventorySystem\InventorySystem\bin\roslyn\VBCSCompiler.exe
+c:\projects\InventorySystem\InventorySystem\bin\roslyn\VBCSCompiler.exe.config
+c:\projects\InventorySystem\InventorySystem\bin\InventorySystem.dll.config
+c:\projects\InventorySystem\InventorySystem\bin\InventorySystem.dll
+c:\projects\InventorySystem\InventorySystem\bin\InventorySystem.pdb
+c:\projects\InventorySystem\InventorySystem\bin\EntityFramework.dll
+c:\projects\InventorySystem\InventorySystem\bin\EntityFramework.SqlServer.dll
+c:\projects\InventorySystem\InventorySystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\projects\InventorySystem\InventorySystem\bin\Microsoft.Web.Infrastructure.dll
+c:\projects\InventorySystem\InventorySystem\bin\System.Web.Helpers.dll
+c:\projects\InventorySystem\InventorySystem\bin\System.Web.Mvc.dll
+c:\projects\InventorySystem\InventorySystem\bin\System.Web.Razor.dll
+c:\projects\InventorySystem\InventorySystem\bin\System.Web.Webpages.Deployment.dll
+c:\projects\InventorySystem\InventorySystem\bin\System.Web.Webpages.dll
+c:\projects\InventorySystem\InventorySystem\bin\System.Web.Webpages.Razor.dll
+c:\projects\InventorySystem\InventorySystem\bin\EntityFramework.xml
+c:\projects\InventorySystem\InventorySystem\bin\EntityFramework.SqlServer.xml
+c:\projects\InventorySystem\InventorySystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\projects\InventorySystem\InventorySystem\bin\System.Web.Razor.xml
+c:\projects\InventorySystem\InventorySystem\bin\System.Web.Webpages.xml
+c:\projects\InventorySystem\InventorySystem\bin\System.Web.Webpages.Deployment.xml
+c:\projects\InventorySystem\InventorySystem\bin\System.Web.Webpages.Razor.xml
+c:\projects\InventorySystem\InventorySystem\bin\System.Web.Helpers.xml
+c:\projects\InventorySystem\InventorySystem\bin\System.Web.Mvc.xml
+c:\projects\InventorySystem\InventorySystem\obj\Debug\InventorySystem.csprojResolveAssemblyReference.cache
+c:\projects\InventorySystem\InventorySystem\obj\Debug\InventorySystem.dll
+c:\projects\InventorySystem\InventorySystem\obj\Debug\InventorySystem.pdb
+C:\Users\Admin\Desktop\New folder\InventorySystem\InventorySystem\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\New folder\InventorySystem\InventorySystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\New folder\InventorySystem\InventorySystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\New folder\InventorySystem\InventorySystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\New folder\InventorySystem\InventorySystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\New folder\InventorySystem\InventorySystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\New folder\InventorySystem\InventorySystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\New folder\InventorySystem\InventorySystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\New folder\InventorySystem\InventorySystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\New folder\InventorySystem\InventorySystem\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\New folder\InventorySystem\InventorySystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\New folder\InventorySystem\InventorySystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\New folder\InventorySystem\InventorySystem\bin\InventorySystem.dll.config
+C:\Users\Admin\Desktop\New folder\InventorySystem\InventorySystem\bin\InventorySystem.dll
+C:\Users\Admin\Desktop\New folder\InventorySystem\InventorySystem\bin\InventorySystem.pdb
+C:\Users\Admin\Desktop\New folder\InventorySystem\InventorySystem\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\New folder\InventorySystem\InventorySystem\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\New folder\InventorySystem\InventorySystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\New folder\InventorySystem\InventorySystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\New folder\InventorySystem\InventorySystem\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\New folder\InventorySystem\InventorySystem\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\New folder\InventorySystem\InventorySystem\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\New folder\InventorySystem\InventorySystem\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Admin\Desktop\New folder\InventorySystem\InventorySystem\bin\System.Web.Webpages.dll
+C:\Users\Admin\Desktop\New folder\InventorySystem\InventorySystem\bin\System.Web.Webpages.Razor.dll
+C:\Users\Admin\Desktop\New folder\InventorySystem\InventorySystem\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\New folder\InventorySystem\InventorySystem\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\New folder\InventorySystem\InventorySystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\New folder\InventorySystem\InventorySystem\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\New folder\InventorySystem\InventorySystem\bin\System.Web.Webpages.xml
+C:\Users\Admin\Desktop\New folder\InventorySystem\InventorySystem\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Admin\Desktop\New folder\InventorySystem\InventorySystem\bin\System.Web.Webpages.Razor.xml
+C:\Users\Admin\Desktop\New folder\InventorySystem\InventorySystem\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\New folder\InventorySystem\InventorySystem\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\New folder\InventorySystem\InventorySystem\obj\Debug\InventorySystem.dll
+C:\Users\Admin\Desktop\New folder\InventorySystem\InventorySystem\obj\Debug\InventorySystem.pdb

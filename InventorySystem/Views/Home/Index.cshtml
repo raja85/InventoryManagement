@@ -1,0 +1,63 @@
+﻿@model List<InventorySystem.Models.Hammer>
+@{
+    ViewBag.Title = "Index";
+}
+
+<style>
+    table, th, td {
+        border: 2px solid black;
+    }
+</style>
+<h2>Stock Details</h2>
+
+@if (Model.Count == 0)
+{
+    <span>No stock available. Please add items into inventory.</span>
+}
+else
+{
+    <table>
+        <tbody>
+            <tr>
+                <th>Name</th>
+                <th>Description</th>
+                <th>Stock</th>
+                <th>Cost</th>
+                <th>Created On</th>
+                <th>Updated On</th>
+                <th colspan="2"></th>
+            </tr>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @item.Name
+                    </td>
+                    <td>
+                        @item.Description
+                    </td>
+                    <td>
+                        @item.Stock
+                    </td>
+                    <td>
+                        @item.Cost
+                </td>
+                <td>
+                    @item.CreatedOn
+                </td>
+                <td>
+                    @item.UpdatedOn
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", "Home", new { id = @item.Id }, null)
+                </td>
+                <td>
+                    @Html.ActionLink("Delete", "Delete", "Home", new { id = @item.Id }, null)
+                </td>
+            </tr>
+            }
+        </tbody>
+    </table>
+}
+<br />
+@Html.ActionLink("Add New Hammer", "Add", "Home")

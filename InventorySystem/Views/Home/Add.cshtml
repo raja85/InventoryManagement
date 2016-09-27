@@ -1,0 +1,63 @@
+﻿@model InventorySystem.Models.Hammer
+
+@{
+    ViewBag.Title = "Add Hammer Details";
+}
+
+<style>
+    table, th, td {
+        border: 2px solid black;
+    }
+
+    .validation-summary-errors {
+        font-weight: bold !important;
+        color: #ff0000 !important;
+    }
+</style>
+
+<h2>Add Hammer Details</h2>
+@Html.ValidationSummary()
+
+@using (@Html.BeginForm("Add", "Home", FormMethod.Post))
+{
+    <table>
+        <tr>
+
+            <td>
+                @Html.LabelFor(m => m.Name)
+            </td>
+            <td>
+                @Html.TextBoxFor(m => m.Name)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                @Html.LabelFor(m => m.Description)
+            </td>
+            <td>
+                @Html.TextBoxFor(m => m.Description)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                @Html.LabelFor(m => m.Stock)
+            </td>
+            <td>
+                @Html.TextBoxFor(m => m.Stock)
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+                @Html.LabelFor(m => m.Cost)
+            </td>
+            <td>
+                @Html.TextBoxFor(m => m.Cost)
+            </td>
+        </tr>
+    </table>
+    <br />
+    <input type="submit" value="Add to inventory" />
+}
+
+
